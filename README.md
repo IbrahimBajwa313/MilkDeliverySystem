@@ -339,19 +339,23 @@ POST /api/settings              // Update settings
 ## 📱 Screenshots
 
 ### Customer Management
-![Customer Management](screenshots/customers.png)
+![Customer Management](![Picture4](https://github.com/user-attachments/assets/cabde1d1-6b71-41c5-afa4-78344ff13ac6)
+)
 
 ### Daily Delivery Tracking
-![Delivery Tracking](screenshots/delivery.png)
+![Delivery Tracking](![Picture5](https://github.com/user-attachments/assets/0205e516-2ed7-4184-ab09-056129db0284)
+)
 
 ### Billing System
-![Billing System](screenshots/bills.png)
+![Billing System](![Picture5](https://github.com/user-attachments/assets/4637c225-aadc-444c-a6b2-efeb96ec82a3)
+)
 
 ### Payment Management
-![Payment Management](screenshots/payments.png)
+![Payment Management](![Picture6](https://github.com/user-attachments/assets/051715c5-b550-4395-af0d-69bcd3c62f5b)
+)
 
 ### Reports & Analytics
-![Reports](screenshots/reports.png)
+![Reports]()
 
 ## 🔧 Development
 
@@ -522,8 +526,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: https://github.com/IbrahimBajwa313/MilkDeliverySystem
+- Email: ibrahimbajwa1065@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -537,9 +541,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or need help, please:
 
-1. Check the [Issues](https://github.com/yourusername/tayba-khalis-milk-system/issues) page
-2. Create a new issue if your problem isn't already reported
-3. Contact the maintainer at your.email@example.com
+1. Create a new issue if your problem isn't already reported
+2. Contact the maintainer at ibrahimbajwa1065@gmail.com
 
 ---
 
